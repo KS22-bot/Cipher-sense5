@@ -1,7 +1,0 @@
-{
-  "buildCommand": "pnpm --filter @workspace/ciphersense run build",
-  "outputDirectory": "artifacts/ciphersense/dist/public",
-  "installCommand": "pnpm install --frozen-lockfile",
-  "framework": null,
-  "nodeVersion": "22"
-}
